@@ -1,4 +1,4 @@
-# Ordonnancement-des-Patients-aux-SUA
+# Patients Scheduling in the Emergency Department
 
 ### Context of the project
 
@@ -17,20 +17,18 @@ In that regard, several criteria have to be taken into consideration :
 
 
 ### Recovering the project from Github : 
+
 Create a directory
 
-    $ mkdir git-xpath-engine  
-    $ cd git-xpath-engine 
+    $ mkdir git-Patients-Scheduling-in-the-Emergency-Department  
+    $ cd git-Patients-Scheduling-in-the-Emergency-Department 
     
 Link to the repository of the project
 
-    $ git clone https://github.com/Amal-Chaoui/maxi_project_db
-    $ cd maxi_project_db  
+    $ git clone https://github.com/Amal-Chaoui/Patients-Scheduling-in-the-Emergency-Department
+    $ cd Patients-Scheduling-in-the-Emergency-Department  
 
 Pull changes from the remote repository :
 
     $ git pull
     
-You can run the test in the `unit_tests.py` file by using the following command : 
-
-    $ python3 unit_tests.py
