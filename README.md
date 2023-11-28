@@ -29,7 +29,7 @@ Link to the repository of the project
     $ git clone https://github.com/Amal-Chaoui/Patients-Scheduling-in-the-Emergency-Department
     $ cd Patients-Scheduling-in-the-Emergency-Department  
 
-Pull changes from the remote repository :
+Pull changes from the remote repository
 
     $ git pull
     
