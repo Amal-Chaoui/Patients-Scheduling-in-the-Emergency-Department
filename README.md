@@ -1,4 +1,4 @@
-# Patients Scheduling in the Emergency Department
+# Scheduling Patients in Emergency Department using Heuristics
 
 ### Context of the project
 
